@@ -11,8 +11,7 @@
 #include "esp_netif.h"
 #include "dht.h"
 
-#define WIFI_SSID "your_ssid"
-#define WIFI_PASS "your_password"
+
 #define BROKER_URI "mqtt://broker.hivemq.com"
 
 static const char *TAG = "SMART_FARMING";
