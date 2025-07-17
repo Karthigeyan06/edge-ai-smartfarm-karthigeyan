@@ -2,6 +2,7 @@
 
 This project is a Smart Farming IoT solution built using **ESP32**, **DHT11 sensor**, **soil moisture sensor**, and **MQTT** protocol. It reads environmental data and sends it to a dashboard (e.g., Node-RED or MQTT broker).
 
+
 ---
 
 ## 🚀 Features
